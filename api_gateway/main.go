@@ -15,12 +15,12 @@ func main() {
 	router := mux.NewRouter()
 
 	// Ruta para el microservicio de usuarios
-	usersProxy := NewReverseProxy("http://localhost:3000")
-	router.PathPrefix("/users/").Handler(usersProxy)
+	usersProxy := NewReverseProxy("http://172.17.0.5:5000")
+	router.PathPrefix("/users").Handler(usersProxy)
 
 	// Ruta para el microservicio de tareas
-	tasksProxy := NewReverseProxy("http://localhost:4000")
-	router.PathPrefix("/tasks/").Handler(tasksProxy)
+	tasksProxy := NewReverseProxy("http://172.17.0.4:4000")
+	router.PathPrefix("/tasks").Handler(tasksProxy)
 
 	// Configurar el servidor HTTP
 	server := &http.Server{

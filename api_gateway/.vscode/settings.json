@@ -1,0 +1,24 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "172.17.0.7",
+            "port": 50700,
+            "driver": "PostgreSQL",
+            "name": "dsds",
+            "database": "mydb",
+            "username": "postgres",
+            "password": "changeme"
+        },
+        {
+            "previewLimit": 50,
+            "server": "127.0.0.1",
+            "port": 50700,
+            "driver": "PostgreSQL",
+            "username": "postgres",
+            "database": "mydb",
+            "password": "changeme",
+            "name": "dsdsds"
+        }
+    ]
+}
