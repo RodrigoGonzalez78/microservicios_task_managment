@@ -1,11 +1,11 @@
-# Comandos de ejemplos para el despliegue 
-
-## Investigacion y certificado
+# Investigacion y certificado
 
 [Informe de investigacion](Investigacion.pdf)
 
 [Certificado](certificado.pdf)
 
+
+# Comandos de ejemplos para el despliegue 
 
 ## Crear y corre un contenedor docker de las apliciones
 
