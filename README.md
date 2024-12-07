@@ -2,9 +2,9 @@
 
 ## Investigacion y certificado
 
-[Ver documento completo](Investigacion.pdf)
+[Informe de investigacion](Investigacion.pdf)
 
-[Ver documento completo](certificado.pdf)
+[Certificado](certificado.pdf)
 
 
 ## Crear y corre un contenedor docker de las apliciones
