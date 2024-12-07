@@ -3,6 +3,7 @@
 ## Investigacion y certificado
 
 [Ver documento completo](Investigacion.pdf)
+
 [Ver documento completo](certificado.pdf)
 
 
