@@ -1,5 +1,11 @@
 # Comandos de ejemplos para el despliegue 
 
+## Investigacion y certificado
+
+[Ver documento completo](Investigacion.pdf)
+[Ver documento completo](certificado.pdf)
+
+
 ## Crear y corre un contenedor docker de las apliciones
 
 ### Estos comandos deben ejecutarse en la ruta de cada uno
