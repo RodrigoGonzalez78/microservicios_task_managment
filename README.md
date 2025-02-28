@@ -1,5 +1,10 @@
 # Investigacion y certificado
 
+Durante el desarrollo del curso de Redes de Datos, realicé un proyecto de investigación
+en el que comparé las arquitecturas monolíticas y de microservicios, así como los
+desafíos prácticos asociados a la implementación de cada una. Utilicé Docker y JMeter
+para las pruebas de carga, y todo el trabajo se llevó a cabo en un entorno Linux (Fedora).
+
 [Informe de investigacion](Investigacion.pdf)
 
 [Certificado](certificado.pdf)
